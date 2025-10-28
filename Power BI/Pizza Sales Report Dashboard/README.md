@@ -5,18 +5,18 @@ This Power BI dashboard analyzes pizza sales performance across different catego
 
 📊 Dashboard Features
 
-Total sales and revenue overview
-Sales trends over time (daily, weekly, monthly)
-Best-selling pizza types and categories
-Sales by location/branch
-Customer demographics and order patterns
-Interactive filters to analyze specific time periods or products
+* Total sales and revenue overview
+* Sales trends over time (daily, weekly, monthly)
+* Best-selling pizza types and categories
+* Sales by location/branch
+* Customer demographics and order patterns
+* Interactive filters to analyze specific time periods or products
 
 🛠 Tools Used
 
-Power BI / Tableau (for dashboard creation)
-Excel / SQL (for data preparation and analysis)
-Data visualization charts: bar charts, line graphs, pie charts, and slicers for interactivity
+* Power BI / Tableau (for dashboard creation)
+* Excel / SQL (for data preparation and analysis)
+* Data visualization charts: bar charts, line graphs, pie charts, and slicers for interactivity
 
 📜 Conclusion
 
