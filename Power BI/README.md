@@ -7,7 +7,7 @@
 
 *📊 Dashboard List*
 
-⿡ *Call Center Performance Dashboard*
+1️⃣ *Call Center Performance Dashboard*
 
     * Overview: This project analyzes call center operations, including call volume, agent performance, and customer satisfaction. The dashboard provides insights into call handling efficiency, call topics, and trends in call volume.
     * Key Insights: High resolution rate (72.9%) indicates efficiency, low satisfaction rating (3.4) suggests a need for service improvement, calls are answered quickly, streaming/tech support/payments are top call topics, and workload imbalance exists among agents.
