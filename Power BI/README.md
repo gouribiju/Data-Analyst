@@ -9,8 +9,17 @@
 
 1️⃣ *Call Center Performance Dashboard*
 
-    * Overview: This project analyzes call center operations, including call volume, agent performance, and customer satisfaction. The dashboard provides insights into call handling efficiency, call topics, and trends in call volume.
-    * Key Insights: High resolution rate (72.9%) indicates efficiency, low satisfaction rating (3.4) suggests a need for service improvement, calls are answered quickly, streaming/tech support/payments are top call topics, and workload imbalance exists among agents.
+    * Overview: This Power BI dashboard analyzes pizza sales performance across different categories, sizes, and time periods.
+    * Key Insights: 
+    Total Revenue: $817.86K | Pizzas Sold: 48.6K | Avg Order Value: $38.31
+
+Busiest Days: Friday & Thursday
+
+Top Month: December
+
+Best Category: Classic pizzas
+
+Most Popular Size: Large (46% of total revenue)
 ⿢ *Customer Churn Analysis Dashboard*
 
     * Overview: This project analyzes customer churn, retention, and related metrics. The dashboard provides insights into churn rate, customer tenure, and factors influencing customer churn.
