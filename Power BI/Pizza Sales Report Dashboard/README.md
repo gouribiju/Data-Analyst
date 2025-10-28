@@ -20,10 +20,7 @@ This Power BI dashboard analyzes pizza sales performance across different catego
 
 📜 Conclusion
 
-*Top-selling pizzas drive most of the revenue, while some items have low demand
-
-*Certain locations outperform others in sales, indicating high-performing branches
-
-*Peak sales occur during weekends or specific months, highlighting seasonal trends
-
-*Customer preferences can guide menu optimization and promotional strategies
+* Top-selling pizzas drive most of the revenue, while some items have low demand
+* Certain locations outperform others in sales, indicating high-performing branches
+* Peak sales occur during weekends or specific months, highlighting seasonal trends
+* Customer preferences can guide menu optimization and promotional strategies
