@@ -7,7 +7,7 @@
 
 *📊 Dashboard List*
 
-1️⃣ *Call Center Performance Dashboard*
+1️⃣ *Pizza Sales Report Dashboard*
 
     * Overview: This Power BI dashboard analyzes pizza sales performance across different categories, sizes, and time periods.
     * Key Insights: Total Revenue: $817.86K | Pizzas Sold: 48.6K | Avg Order Value: $38.31 , Busiest Days: Friday & Thursday , Top Month: December , Best Category:Classic pizzas , Most Popular Size: Large (46% of total revenue)
