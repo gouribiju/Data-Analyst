@@ -10,13 +10,9 @@ This repository contains interactive Tableau dashboards and stories, created usi
 
     * Overview: This project analyzes crime trends across the United States using Tableau. The dashboard provides insights into different crime categories, locations, and time periods, helping to identify key patterns and relationships.
    
-    * Key Insights: 
-      * The highest crime rates were observed in [insert key state/city based on dashboard].
-      * Property crimes are more frequent than violent crimes in most regions.
-      * Crime rates show a seasonal trend, with peaks in [insert season/month].
-      * Certain states consistently show higher-than-average crime rates.
-  
-    * Highlights: Classic and Large-size pizzas drive the highest sales. Orders peak on weekends and during December, while sales drop in early autumn.
+    * Key Insights: The analysis shows that property crimes are more common than violent crimes. Certain states consistently report higher crime rates, and crime levels fluctuate across years, revealing clear temporal and geographic patterns.
+    
+    * Highlights: The dashboard includes interactive filters, trend charts, and a U.S. map showing crime distribution. Users can compare crime categories, analyze yearly trends, and gain quick insights through a clean, interactive layout.
 
 2️⃣  *Employee Attrition Prediction Report Dashboard*
 
