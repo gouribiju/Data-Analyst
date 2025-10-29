@@ -23,6 +23,6 @@
 
     * Highlights: The dashboard helps HR teams identify departments and employee groups with high attrition risk, enabling proactive retention strategies and better workforce planning.
 
-*  📜 Conclusion
+* 📜 Conclusion*
 These Power BI dashboards utilize various visualization techniques to analyze and present data across different domains, including call center operations, customer retention, talent market trends, and retail sales. 
 Interactive features enable users to explore data and gain actionable insights.
