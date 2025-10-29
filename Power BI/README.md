@@ -26,9 +26,9 @@
 
 *🛠 Tools Used*
 
-  * Power BI (Dashboard Creation)
-  * Excel files (.xlsx)
-  * CSV files (.csv)
+    * Power BI (Dashboard Creation)
+    * Excel files (.xlsx)
+    * CSV files (.csv)
 
 *📜 Conclusion*
 
