@@ -10,7 +10,11 @@ This repository contains interactive Tableau dashboards and stories, created usi
 
     * Overview: This project analyzes crime trends across the United States using Tableau. The dashboard provides insights into different crime categories, locations, and time periods, helping to identify key patterns and relationships.
    
-    * Key Insights: Total Revenue: $817.86K | Pizzas Sold: 48.6K | Avg Order Value: $38.31 , Busiest Days: Friday & Thursday , Top Month: December , Best Category:Classic pizzas , Most Popular Size: Large (46% of total revenue)
+    * Key Insights: 
+* The highest crime rates were observed in [insert key state/city based on dashboard].
+* Property crimes are more frequent than violent crimes in most regions.
+* Crime rates show a seasonal trend, with peaks in [insert season/month].
+* Certain states consistently show higher-than-average crime rates.
   
     * Highlights: Classic and Large-size pizzas drive the highest sales. Orders peak on weekends and during December, while sales drop in early autumn.
 
