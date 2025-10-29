@@ -6,9 +6,9 @@ This repository contains interactive Tableau dashboards and stories, created usi
 
 *📊 Dashboard List*
 
-1️⃣ *Pizza Sales Report Dashboard*
+1️⃣ *US Crime Analysis Dashboard*
 
-    * Overview: This Power BI dashboard analyzes pizza sales performance across different categories, sizes, and time periods.
+    * Overview: This project analyzes crime trends across the United States using Tableau. The dashboard provides insights into different crime categories, locations, and time periods, helping to identify key patterns and relationships.
    
     * Key Insights: Total Revenue: $817.86K | Pizzas Sold: 48.6K | Avg Order Value: $38.31 , Busiest Days: Friday & Thursday , Top Month: December , Best Category:Classic pizzas , Most Popular Size: Large (46% of total revenue)
   
