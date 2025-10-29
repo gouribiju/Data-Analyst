@@ -24,6 +24,11 @@
     * Highlights: The dashboard helps HR teams identify departments and employee groups with high attrition risk, enabling proactive retention strategies and better workforce planning.
 
 
+*🛠 Tools Used*
+
+* Power BI (Dashboard Creation)
+* Excel files (.xlsx)
+* CSV files (.csv)
 
 *📜 Conclusion*
 
