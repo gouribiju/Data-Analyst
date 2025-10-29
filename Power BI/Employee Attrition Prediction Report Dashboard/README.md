@@ -1,4 +1,4 @@
-# Employee Attrition Ptrediction Report Dashboard
+# Employee Attrition Prediction Report Dashboard
 
 📌 Overview
 
