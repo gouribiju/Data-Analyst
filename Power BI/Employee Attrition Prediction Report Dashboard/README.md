@@ -4,6 +4,7 @@
 
 The dashboard provides an analytical view of employee attrition, helping HR teams identify key factors influencing employee turnover and take proactive steps to improve retention.
 
+-----
 
 📊 Dashboard Features
 
@@ -13,12 +14,14 @@ The dashboard provides an analytical view of employee attrition, helping HR team
 * Interactive filters for gender, education, and performance rating
 * Predictive insights highlighting employees at high risk of leaving
 
+----
 
 🛠 Tools Used
 
 * Power BI (dashboard creation and visualization)
 * Python / Excel / SQL (data preprocessing and analysis)
-* 
+
+---
 
 📜 Conclusion
 * Attrition is higher among employees with lower salaries, fewer years at the company, and lower job satisfaction
