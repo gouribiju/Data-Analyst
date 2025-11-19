@@ -67,6 +67,4 @@ With clear visual insights into sales, customers, products, and profitability, t
 * Improve inventory planning
 * Track revenue and performance trends
 
-The report can easily be customized or expanded using additional Shopify datasets or API connections, making it a scalable analytics solution for any Shopify store.
 
-Just tell me!
