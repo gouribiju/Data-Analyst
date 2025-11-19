@@ -1,12 +1,12 @@
 # Employee Attrition Prediction Report Dashboard
 
-📌 Overview
+## 📌 Overview
 
 The dashboard provides an analytical view of employee attrition, helping HR teams identify key factors influencing employee turnover and take proactive steps to improve retention.
 
 -----
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
 * Overall attrition rate and employee count
 * Department-wise and job role-wise attrition analysis
@@ -16,14 +16,14 @@ The dashboard provides an analytical view of employee attrition, helping HR team
 
 ----
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 * Power BI (dashboard creation and visualization)
 * Python / Excel / SQL (data preprocessing and analysis)
 
 ---
 
-📜 Conclusion
+## 📜 Conclusion
 * Attrition is higher among employees with lower salaries, fewer years at the company, and lower job satisfaction
 * Certain departments show consistently higher turnover rates
 * Predictive analysis helps HR identify potential resignations early and implement targeted retention strategies
