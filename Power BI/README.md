@@ -23,6 +23,12 @@
 
     * Highlights: The dashboard helps HR teams identify departments and employee groups with high attrition risk, enabling proactive retention strategies and better workforce planning.
 
+2️⃣   * Shopify - Sales & Customer Funnel Report Dashboard*
+
+
+    *This project is a **Power BI dashboard** built using Shopify sales data.
+It provides insights into store performance, customer behavior, product trends, and financial metrics.
+The goal is to help businesses make data-driven decisions and improve overall sales operations.
 
 *🛠 Tools Used*
 
