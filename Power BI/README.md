@@ -29,7 +29,7 @@
     * Overview: This Power BI dashboard provides a clear breakdown of Shopify sales performance. It helps track revenue trends, understand customer behavior, and evaluate which products contribute the most to overall growth.
 
    *  Key Insights:The dashboard reveals top-selling products, identifies sales trends over time, highlights customer purchasing patterns—including repeat buyers—and shows how discounts and refunds affect overall revenue.
-   *  
+     
     * Highlights:It features interactive visuals with easy filters, clear KPI cards for quick performance tracking, and a unified view of sales, product performance, and customer metrics.
 
 
