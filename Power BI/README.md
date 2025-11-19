@@ -23,7 +23,7 @@
 
     * Highlights: The dashboard helps HR teams identify departments and employee groups with high attrition risk, enabling proactive retention strategies and better workforce planning.
 
-2️⃣   * Shopify - Sales & Customer Funnel Report Dashboard*
+2️⃣   * Shopify Sales Analysis Report Dashboard*
 
     * Overview: This Power BI dashboard provides a clear breakdown of Shopify sales performance. It helps track revenue trends, understand customer behavior, and evaluate which products contribute the most to overall growth.
 
