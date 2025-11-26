@@ -25,8 +25,8 @@ The goal of this project is to perform comprehensive data analysis on the provid
 - Aggregate and filter data using `GROUP BY` and `HAVING`.
 - Join multiple tables to analyze relationships between movies, actors, and directors.
 - Analyze genres and director-genre associations.
-- Demonstrate basic to advanced SQL querying skills.
 
-##  Conclusion
+## 📜 Conclusion
 
 This SQL project demonstrates the ability to manage and query relational databases efficiently. It highlights how structured queries can extract actionable insights from complex datasets, serving as a foundation for more advanced data analysis and business intelligence tasks.
+
