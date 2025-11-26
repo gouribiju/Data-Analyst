@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains SQL scripts and queries designed to extract, analyze, and visualize insights from relational databases. It demonstrates proficiency in data manipulation, querying, and reporting using SQL.
 
-## Problem Statement
+## 🔍 Problem Statement
 The goal of this project is to perform comprehensive data analysis on the provided datasets, understand relationships between tables, and generate meaningful insights to support decision-making.
 
 ## 📊 Dashboard List:
