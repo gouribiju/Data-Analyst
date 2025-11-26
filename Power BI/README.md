@@ -1,5 +1,4 @@
-# <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f45971a5-321c-464a-aa03-d43020db7aab" />
-Power BI Dashboards
+# <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f45971a5-321c-464a-aa03-d43020db7aab" /> Power BI Dashboards
 
 *📌 Overview*
 
