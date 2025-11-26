@@ -23,7 +23,7 @@ The dashboard provides an analytical view of employee attrition, helping HR team
 
 ---
 
-## 📜 Conclusion
+## 🏁 Conclusion
 * Attrition is higher among employees with lower salaries, fewer years at the company, and lower job satisfaction
 * Certain departments show consistently higher turnover rates
 * Predictive analysis helps HR identify potential resignations early and implement targeted retention strategies
