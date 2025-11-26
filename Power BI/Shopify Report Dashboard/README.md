@@ -1,4 +1,4 @@
-# Shopify Sales Analysis Report Dashboard
+# 🛒 Shopify Sales Analysis Report Dashboard
 
 ## 📌 Overview
 
