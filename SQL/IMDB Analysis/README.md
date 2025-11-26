@@ -26,6 +26,14 @@ The goal of this project is to perform comprehensive data analysis on the provid
 - Join multiple tables to analyze relationships between movies, actors, and directors.
 - Analyze genres and director-genre associations.
 
+## 📁File Description
+- `User_behavior_analysis.sql`: Contains SQL queries used to perform the analysis.
+
+## 📜 How to Run
+1. Import the dataset into MySQL.
+2. Execute the queries in the `.sql` file.
+3. Review insights generated from the output tables.
+
 ## 📜 Conclusion
 
 This SQL project demonstrates the ability to manage and query relational databases efficiently. It highlights how structured queries can extract actionable insights from complex datasets, serving as a foundation for more advanced data analysis and business intelligence tasks.
