@@ -8,7 +8,7 @@ The goal of this project is to perform comprehensive data analysis on the provid
 
 ## 📊 Dashboard List:
 
-### 1️⃣ Mobile User Behavior Analysis
+1️⃣ Mobile User Behavior Analysis: Analyzes user activity—screen time, app usage, data, and battery—using MySQL to uncover usage trends and patterns.
     
 ## 🛠 Tools Used
 - MySQL Workbench  
