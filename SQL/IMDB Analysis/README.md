@@ -1,6 +1,6 @@
 # 📊 IMDB Analysis
 
-## 🔹 Overview
+## 📌 Overview
 This repository contains SQL scripts and queries designed to extract, analyze, and visualize insights from relational databases. It demonstrates proficiency in data manipulation, querying, and reporting using SQL.
 
 ##  🔍 Problem Statement
@@ -15,7 +15,7 @@ The goal of this project is to perform comprehensive data analysis on the provid
 - **Directors_Genres** – Directors’ associated genres.
 - **Roles** – Actors’ roles in movies.
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 - **MySQL** – Database management and querying.
 - **MySQL Workbench** – SQL development and visualization.
 
