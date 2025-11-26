@@ -1,5 +1,3 @@
-1️⃣ *Mobile User Behavior Analysis *
-
 # 📊 User Behavior Analysis (SQL Project)
 
 ## Overview
