@@ -1,15 +1,14 @@
-# 📊 User Behavior Analysis (SQL Project)
+# SQL Project
 
 ## Overview
-This SQL project explores user behavior patterns using data from a `user_behavior_dataset`.  
-It answers analytical questions such as screen time trends, battery usage, app installations, and gender-based differences.
+This demonstrates my expertise in SQL through a variety of projects that tackle real-world data challenges, including performance optimization, data cleaning, advanced querying, and analytics.
 
 ## Tools Used
 - MySQL Workbench  
 - SQL (Queries and Analysis)
 
 ## Projects:
-  * 1️⃣ *Mobile User Behavior Analysis *
+  * 1️⃣ *Mobile User Behavior Analysis 
 
 
 ## How to Run
