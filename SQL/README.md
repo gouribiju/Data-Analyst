@@ -3,12 +3,13 @@
 ## Overview
 This demonstrates my expertise in SQL through a variety of projects that tackle real-world data challenges, including performance optimization, data cleaning, advanced querying, and analytics.
 
+## Dashboard List:
+  * 1️⃣ *Mobile User Behavior Analysis*
+    
 ## Tools Used
 - MySQL Workbench  
 - SQL (Queries and Analysis)
 
-## Projects:
-  * 1️⃣ *Mobile User Behavior Analysis 
 
 
 ## How to Run
