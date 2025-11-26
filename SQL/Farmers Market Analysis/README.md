@@ -8,7 +8,7 @@ This project focuses on building and analyzing a relational database for a Farme
 - SQL (Queries and Analysis)
 
 ## 📊 Key Insights
-- The database design captures all key relationships within a farmers market — vendors, customers, booths, products, and sales transactions— enabling detailed analysis.
+- The database design captures all key relationships within a farmers market: vendors, customers, booths, products,and sales transactions — enabling detailed analysis.
 - Customer purchase patterns reveal high-demand products, peak buying times, and spending behaviors across different zip codes.
 - Vendor inventory and sales data help identify best-selling products, seasonal demand trends, and vendor performance over different dates.
 - The relational structure ensures data consistency using primary keys, foreign keys, and well-defined constraints.
