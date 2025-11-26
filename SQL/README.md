@@ -10,7 +10,8 @@ The goal of this project is to perform comprehensive data analysis on the provid
 
   * 1️⃣ Mobile User Behavior Analysis: Analyzes user activity—screen time, app usage, data, and battery—using MySQL to uncover usage trends and patterns.
   * 2️⃣ IMDB Analysis : Analyzes IMDB data to explore movies, actors, directors, genres, and their relationships using SQL queries.
-  * 
+  * 3️⃣ Farmers Market Analysis : Analyze customer activity, vendor performance, and product sales trends.
+    
 ## 🛠 Tools Used
 - MySQL Workbench  
 - SQL (Queries and Analysis)
