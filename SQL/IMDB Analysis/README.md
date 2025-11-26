@@ -27,7 +27,7 @@ The goal of this project is to perform comprehensive data analysis on the provid
 - Analyze genres and director-genre associations.
 
 ## 📁File Description
-- `User_behavior_analysis.sql`: Contains SQL queries used to perform the analysis.
+- `IMDB_analysis.sql`: Contains SQL queries used to perform the analysis.
 
 ## 📜 How to Run
 1. Import the dataset into MySQL.
