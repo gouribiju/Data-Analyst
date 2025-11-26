@@ -21,7 +21,7 @@ This Power BI dashboard analyzes pizza sales performance across different catego
 * Excel / SQL (for data preparation and analysis)
 * Data visualization charts: bar charts, line graphs, pie charts, and slicers for interactivity
 -----
-## 📜 Conclusion
+## 🏁 Conclusion
 
 * Top-selling pizzas drive most of the revenue, while some items have low demand.
 * Certain locations outperform others in sales, indicating high-performing branches.
