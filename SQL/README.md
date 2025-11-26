@@ -8,14 +8,9 @@ It answers analytical questions such as screen time trends, battery usage, app i
 - MySQL Workbench  
 - SQL (Queries and Analysis)
 
-## Key Insights
-- Identified top users with the highest average screen time.  
-- Found device models with the highest battery drain.  
-- Compared data usage across operating systems and gender.  
-- Analyzed relationships between app installations and battery drain.
+## Projects:
+  * 1️⃣ *Mobile User Behavior Analysis *
 
-## File Description
-- `User_behavior_analysis.sql`: Contains SQL queries used to perform the analysis.
 
 ## How to Run
 1. Import the dataset into MySQL.
