@@ -1,4 +1,4 @@
-# 🛢️SQL Project
+# 🛢️SQL Projects
 
 ## 📌 Overview
 This repository contains SQL scripts and queries designed to extract, analyze, and visualize insights from relational databases. It demonstrates proficiency in data manipulation, querying, and reporting using SQL.
