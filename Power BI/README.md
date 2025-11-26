@@ -1,13 +1,13 @@
-# <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f45971a5-321c-464a-aa03-d43020db7aab" /> Power BI Dashboards
+# Power BI Dashboards
 
-*📌 Overview*
+## 📌 Overview
 
     This repository contains interactive Power BI dashboards designed for data analysis and visualization. These dashboards utilize various charts, filters, and interactive elements to provide insights into key business metrics and trends. 
     The goal is to facilitate data-driven decision-making and performance monitoring.
 
-*📊 Dashboard List*
+## Dashboard List
 
-1️⃣ *Pizza Sales Report Dashboard*
+### 1️⃣ Pizza Sales Report Dashboard
 
     * Overview: This Power BI dashboard analyzes pizza sales performance across different categories, sizes, and time periods.
    
@@ -15,7 +15,7 @@
   
     * Highlights: Classic and Large-size pizzas drive the highest sales. Orders peak on weekends and during December, while sales drop in early autumn.
 
-2️⃣  *Employee Attrition Prediction Report Dashboard*
+### 2️⃣ Employee Attrition Prediction Report Dashboard
 
     * Overview: This project analyzes employee attrition trends across departments, highlighting key factors such as age, job satisfaction, performance rating, and education field that influence employee turnover. It helps HR teams identify high-risk groups—particularly in the R&D department and among employees aged 31–40—enabling data-driven decisions to improve retention and workforce management.
     
@@ -23,7 +23,7 @@
 
     * Highlights: The dashboard helps HR teams identify departments and employee groups with high attrition risk, enabling proactive retention strategies and better workforce planning.
 
-3️⃣   * Shopify Sales Analysis Report Dashboard*
+### 3️⃣ Shopify Sales Analysis Report Dashboard
 
     * Overview: This Power BI dashboard provides a clear breakdown of Shopify sales performance. It helps track revenue trends, understand customer behavior, and evaluate which products contribute the most to overall growth.
 
@@ -32,12 +32,12 @@
     * Highlights: It features interactive visuals with easy filters, clear KPI cards for quick performance tracking, and a unified view of sales, product performance, and customer metrics.
 
 
-*🛠 Tools Used*
+## 🛠 Tools Used
 
     * Power BI (Dashboard Creation)
     * Excel files (.xlsx)
     * CSV files (.csv)
 
-*📜 Conclusion*
+## 📜 Conclusion
 
     These Power BI dashboards utilize various visualization techniques to analyze and present data across different domains, including call center operations, customer retention, talent market trends, and retail sales. Interactive features enable users to explore data and gain actionable insights.
