@@ -69,13 +69,7 @@ The dataset includes car sales-related information such as:
 - Pivot Table Analysis  
 - Data Visualization  
 - Business Insight Generation  
-- Excel Dashboard Design  
-
----
-
-## 📷 Project Output
-(You can add screenshots of your charts here for better presentation)
-
+- Excel Dashboard Design
 
 ---
 
